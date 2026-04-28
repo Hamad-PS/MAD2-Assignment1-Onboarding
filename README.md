@@ -2,8 +2,11 @@
   ## Onboarding Screens
 
   **Student:** Hamad Maher Al Rafati
+  
   **Student ID:** 1320220704
+  
   **Language:** Java
+  
   **Min SDK:** 33  |  Target SDK:** 35
 
   ## Overview
