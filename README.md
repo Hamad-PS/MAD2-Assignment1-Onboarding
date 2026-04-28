@@ -1,8 +1,8 @@
   # Mobile App Development 2 — Assignment 1
   ## Onboarding Screens
 
-  **Student:** [Your full name]
-  **Student ID:** [Your ID]
+  **Student:** Hamad Maher Al Rafati
+  **Student ID:** 1320220704
   **Language:** Java
   **Min SDK:** 33  |  Target SDK:** 35
 
