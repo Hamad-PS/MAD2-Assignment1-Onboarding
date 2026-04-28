@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+
+    <!-- Fragment 1 -->
+    <string name="f1_eyebrow">Step 1 of 3</string>
+    <string name="f1_title">Welcome aboard 👋</string>
+    <string name="f1_subtitle">Let\'s get to know you. What should we call you?</string>
+    <string name="f1_name_hint">Your full name</string>
+    <string name="f1_continue">Continue</string>
+    <string name="f1_error_empty">Please enter your name to continue</string>
+
+    <!-- Fragment 2 -->
+    <string name="f2_eyebrow">Step 2 of 3</string>
+    <string name="f2_title">Tell us a bit more</string>
+    <string name="f2_welcome_prefix">Hi, %1$s!</string>
+    <string name="f2_welcome_subtitle">A few quick details and we\'re done.</string>
+    <string name="f2_email_hint">Email address</string>
+    <string name="f2_age_hint">Age</string>
+    <string name="f2_university_hint">University (optional)</string>
+    <string name="f2_gender_label">Gender</string>
+    <string name="f2_gender_male">Male</string>
+    <string name="f2_gender_female">Female</string>
+    <string name="f2_continue">Continue</string>
+    <string name="f2_error_email">Please enter your email address</string>
+
+    <!-- Fragment 3 -->
+    <string name="f3_eyebrow">Step 3 of 3</string>
+    <string name="f3_title">Almost there 🎉</string>
+    <string name="f3_hello">Hello, %1$s!</string>
+    <string name="f3_message">Confirm the agreement below to finish setting up your account.</string>
+    <string name="f3_agree">I confirm I have read and agree to use the app.</string>
+    <string name="f3_continue">Continue</string>
+    <string name="f3_finish">Finish</string>
+    <string name="f3_complete">Onboarding complete! Welcome %1$s</string>
+
+    <!-- Host toasts -->
+    <string name="host_confirmed">Confirmed</string>
+    <string name="host_unconfirmed">Unconfirmed</string>
+</resources>
